@@ -1,0 +1,10 @@
+D:\Day3\Hello\FormSwitching\bin\Debug\FormSwitching.exe.config
+D:\Day3\Hello\FormSwitching\bin\Debug\FormSwitching.exe
+D:\Day3\Hello\FormSwitching\bin\Debug\FormSwitching.pdb
+D:\Day3\Hello\FormSwitching\obj\Debug\FormSwitching.csprojResolveAssemblyReference.cache
+D:\Day3\Hello\FormSwitching\obj\Debug\FormSwitching.Form1.resources
+D:\Day3\Hello\FormSwitching\obj\Debug\FormSwitching.Form2.resources
+D:\Day3\Hello\FormSwitching\obj\Debug\FormSwitching.Properties.Resources.resources
+D:\Day3\Hello\FormSwitching\obj\Debug\FormSwitching.csproj.GenerateResource.Cache
+D:\Day3\Hello\FormSwitching\obj\Debug\FormSwitching.exe
+D:\Day3\Hello\FormSwitching\obj\Debug\FormSwitching.pdb
