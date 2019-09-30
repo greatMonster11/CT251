@@ -1,9 +1,0 @@
-D:\Day3\Hello\MathForDumies\bin\Debug\MathForDumies.exe.config
-D:\Day3\Hello\MathForDumies\bin\Debug\MathForDumies.exe
-D:\Day3\Hello\MathForDumies\bin\Debug\MathForDumies.pdb
-D:\Day3\Hello\MathForDumies\obj\Debug\MathForDumies.csprojResolveAssemblyReference.cache
-D:\Day3\Hello\MathForDumies\obj\Debug\MathForDumies.Form1.resources
-D:\Day3\Hello\MathForDumies\obj\Debug\MathForDumies.Properties.Resources.resources
-D:\Day3\Hello\MathForDumies\obj\Debug\MathForDumies.csproj.GenerateResource.Cache
-D:\Day3\Hello\MathForDumies\obj\Debug\MathForDumies.exe
-D:\Day3\Hello\MathForDumies\obj\Debug\MathForDumies.pdb

@@ -1,9 +1,0 @@
-D:\Day3\Hello\Hello\bin\Debug\Hello.exe.config
-D:\Day3\Hello\Hello\bin\Debug\Hello.exe
-D:\Day3\Hello\Hello\bin\Debug\Hello.pdb
-D:\Day3\Hello\Hello\obj\Debug\Hello.csprojResolveAssemblyReference.cache
-D:\Day3\Hello\Hello\obj\Debug\Hello.Properties.Resources.resources
-D:\Day3\Hello\Hello\obj\Debug\Hello.csproj.GenerateResource.Cache
-D:\Day3\Hello\Hello\obj\Debug\Hello.exe
-D:\Day3\Hello\Hello\obj\Debug\Hello.pdb
-D:\Day3\Hello\Hello\obj\Debug\Hello.DangNhap.resources
