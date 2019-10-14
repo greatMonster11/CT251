@@ -1,0 +1,9 @@
+D:\Day4\Giai_PTB2\TinhDiem\bin\Debug\TinhDiem.exe.config
+D:\Day4\Giai_PTB2\TinhDiem\bin\Debug\TinhDiem.exe
+D:\Day4\Giai_PTB2\TinhDiem\bin\Debug\TinhDiem.pdb
+D:\Day4\Giai_PTB2\TinhDiem\obj\Debug\TinhDiem.csprojResolveAssemblyReference.cache
+D:\Day4\Giai_PTB2\TinhDiem\obj\Debug\TinhDiem.Form1.resources
+D:\Day4\Giai_PTB2\TinhDiem\obj\Debug\TinhDiem.Properties.Resources.resources
+D:\Day4\Giai_PTB2\TinhDiem\obj\Debug\TinhDiem.csproj.GenerateResource.Cache
+D:\Day4\Giai_PTB2\TinhDiem\obj\Debug\TinhDiem.exe
+D:\Day4\Giai_PTB2\TinhDiem\obj\Debug\TinhDiem.pdb

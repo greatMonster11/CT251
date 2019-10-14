@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giai_PTB2", "Giai_PTB2\Giai_PTB2.csproj", "{95981A91-F661-46F5-A53A-A3837508C627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinhDiem", "TinhDiem\TinhDiem.csproj", "{BCC9EF17-9ECD-4B59-906C-EA9FDD633973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsSwitching", "FormsSwitching\FormsSwitching.csproj", "{4F86B984-BF52-4D80-8479-D3E79AAE3C94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95981A91-F661-46F5-A53A-A3837508C627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95981A91-F661-46F5-A53A-A3837508C627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95981A91-F661-46F5-A53A-A3837508C627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95981A91-F661-46F5-A53A-A3837508C627}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCC9EF17-9ECD-4B59-906C-EA9FDD633973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCC9EF17-9ECD-4B59-906C-EA9FDD633973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCC9EF17-9ECD-4B59-906C-EA9FDD633973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCC9EF17-9ECD-4B59-906C-EA9FDD633973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F86B984-BF52-4D80-8479-D3E79AAE3C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F86B984-BF52-4D80-8479-D3E79AAE3C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F86B984-BF52-4D80-8479-D3E79AAE3C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F86B984-BF52-4D80-8479-D3E79AAE3C94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+D:\Day4\Giai_PTB2\Giai_PTB2\bin\Debug\Giai_PTB2.exe.config
+D:\Day4\Giai_PTB2\Giai_PTB2\obj\Debug\Giai_PTB2.csprojResolveAssemblyReference.cache
+D:\Day4\Giai_PTB2\Giai_PTB2\obj\Debug\Giai_PTB2.Form1.resources
+D:\Day4\Giai_PTB2\Giai_PTB2\obj\Debug\Giai_PTB2.Properties.Resources.resources
+D:\Day4\Giai_PTB2\Giai_PTB2\obj\Debug\Giai_PTB2.csproj.GenerateResource.Cache
+D:\Day4\Giai_PTB2\Giai_PTB2\bin\Debug\Giai_PTB2.exe
+D:\Day4\Giai_PTB2\Giai_PTB2\bin\Debug\Giai_PTB2.pdb
+D:\Day4\Giai_PTB2\Giai_PTB2\obj\Debug\Giai_PTB2.exe
+D:\Day4\Giai_PTB2\Giai_PTB2\obj\Debug\Giai_PTB2.pdb
