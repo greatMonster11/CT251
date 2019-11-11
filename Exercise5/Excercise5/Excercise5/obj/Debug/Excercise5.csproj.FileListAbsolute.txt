@@ -1,0 +1,11 @@
+D:\Day5\Excercise5\Excercise5\bin\Debug\Excercise5.exe.config
+D:\Day5\Excercise5\Excercise5\bin\Debug\Excercise5.exe
+D:\Day5\Excercise5\Excercise5\bin\Debug\Excercise5.pdb
+D:\Day5\Excercise5\Excercise5\obj\Debug\Excercise5.csprojResolveAssemblyReference.cache
+D:\Day5\Excercise5\Excercise5\obj\Debug\Excercise5.frmThanhPho.resources
+D:\Day5\Excercise5\Excercise5\obj\Debug\Excercise5.Properties.Resources.resources
+D:\Day5\Excercise5\Excercise5\obj\Debug\Excercise5.csproj.GenerateResource.Cache
+D:\Day5\Excercise5\Excercise5\obj\Debug\Excercise5.exe
+D:\Day5\Excercise5\Excercise5\obj\Debug\Excercise5.pdb
+D:\Day5\Excercise5\Excercise5\obj\Debug\Excercise5.frmKhachHang1.resources
+D:\Day5\Excercise5\Excercise5\obj\Debug\Excercise5.frmKhachHang2.resources
