@@ -1,0 +1,9 @@
+c:\users\student\documents\visual studio 2013\Projects\TinhTienDien\TinhTienDien\bin\Debug\TinhTienDien.exe.config
+c:\users\student\documents\visual studio 2013\Projects\TinhTienDien\TinhTienDien\bin\Debug\TinhTienDien.exe
+c:\users\student\documents\visual studio 2013\Projects\TinhTienDien\TinhTienDien\bin\Debug\TinhTienDien.pdb
+c:\users\student\documents\visual studio 2013\Projects\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.csprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2013\Projects\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.frmTinhTien.resources
+c:\users\student\documents\visual studio 2013\Projects\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.Properties.Resources.resources
+c:\users\student\documents\visual studio 2013\Projects\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.csproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2013\Projects\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.exe
+c:\users\student\documents\visual studio 2013\Projects\TinhTienDien\TinhTienDien\obj\Debug\TinhTienDien.pdb
